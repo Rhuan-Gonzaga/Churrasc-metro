@@ -1,9 +1,3 @@
-// Carne = 400 gr por pessoa  ,se deuração for + de 6 horas aumento para 650 pessoas
-// Cerveja = 1200 ml por Pessoa , se duração for  + 6 horas aumento para 2000 ml
-// Refrigerante/agua =  1000 ml por pessoa , se duração for  + 6 horas aumento para 1500ml
-
-// Crianças valem por metade
-
 let quantidadeDePessoas = document.getElementById("adultos");
 let quantidadeDeCriancas = document.getElementById("criancas");
 let tempoDuracao = document.getElementById("duracao");
