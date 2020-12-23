@@ -2,11 +2,11 @@
                                                                     
                                                                     
                                                                     
-                                                # DESENVOLVIDO NO CURSO PROGBR
+                                                 DESENVOLVIDO NO CURSO PROGBR
                                                                     
                                                                     
                                
-##📋 Sobre o Projeto:
+📋 SOBRE O PROJETO
 
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 com base nas informações seguintes:
@@ -15,7 +15,7 @@ Cerveja - 1200ml por Pessoa + 6 horas - 2000ml
 Refrigerante/água - 1000ml por pessoa + 6 horas 1500ml
 Crianças valem por 0,5.
 
-##💻 Tecnologias utilizadas
+💻 TECNOLOGIAS ULTILIZADAS
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML
