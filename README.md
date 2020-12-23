@@ -1,4 +1,4 @@
- # PROJETO CHURRASCÔMETRO 
+ # <center>PROJETO CHURRASCÔMETRO</center>
  ![imagem projeto](https://github.com/Rhuan-Gonzaga/Churrascometro/blob/main/projeto.png)
 ### <ins>SOBRE O PROJETO</ins>:
 
