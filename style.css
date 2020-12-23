@@ -1,0 +1,26 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: green;
+    padding: 70px;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-right: 100px;
+    color: white;
+  
+}
+
+input {
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+body {
+    background-image: url(style/_img/AdobeStock_269439787-scaled.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
