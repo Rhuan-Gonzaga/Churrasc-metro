@@ -1,6 +1,6 @@
  # PROJETO CHURRASCÔMETRO 
  ![imagem projeto](https://github.com/Rhuan-Gonzaga/Churrascometro/blob/main/projeto.png)
-### SOBRE O PROJETO:
+### <ins>SOBRE O PROJETO</ins>:
 
   Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 </br>
@@ -14,7 +14,7 @@ Refrigerante/água = 1000ml por pessoa + 6 horas = 1500ml
 </br>
 Crianças valem por 0,5.
 
-### TECNOLOGIAS UTILIZADAS:
+### <ins>TECNOLOGIAS UTILIZADAS</ins>:
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
